@@ -1,4 +1,4 @@
-<img width="1166" height="2268" alt="image" src="https://github.com/user-attachments/assets/a29693df-42ef-4a0e-bac2-c6aca736f3b1" />
+<img width="1226" height="2268" alt="image" src="https://github.com/user-attachments/assets/d7ead88b-3397-4647-9ebb-dcfeb0256c04" />
 
 ## Dashboard Screenshots
 
